@@ -1,0 +1,5 @@
+asyncio==3.4.3
+Pymem==1.13.1
+PyQt6==6.7.0
+pywin32==306
+qasync==0.27.1
